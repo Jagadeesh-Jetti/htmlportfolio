@@ -4,7 +4,6 @@ This is a **single-page resume website** built entirely with **HTML**.
 It showcases my skills, experience, projects, education, and contact details in a **clean, structured layout**.
 
 The project is built **without CSS**, using semantic HTML elements like `<header>`, `<main>`, `<section>`, `<table>`, `<ul>`, and `<footer>`.  
-The tables use a **nested table trick** to simulate **double-line borders**, giving a professional resume look.
 
 ---
 
