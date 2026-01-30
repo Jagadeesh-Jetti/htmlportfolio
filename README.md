@@ -33,6 +33,9 @@ Your portfolio includes (update based on your actual sections):
 
 
 ## 📸 Screenshots
+<img width="1920" height="1080" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/a764dbc9-6fe0-4045-a97d-571eee105bec" />
+<img width="1920" height="1080" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/7d6d15f8-06a6-42f2-b4eb-02e2938af179" />
+
 
 ## Setup Instruction
 
