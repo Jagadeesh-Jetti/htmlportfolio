@@ -34,7 +34,7 @@ Your portfolio includes (update based on your actual sections):
 
 ## 📸 Screenshots
 
-## Serup Instruction
+## Setup Instruction
 
 Clone repository : https://github.com/Jagadeesh-Jetti/htmlportfolio.git
 
