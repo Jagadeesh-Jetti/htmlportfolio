@@ -5,19 +5,36 @@ It showcases my skills, experience, projects, education, and contact details in 
 
 The project is built **without CSS**, using semantic HTML elements like `<header>`, `<main>`, `<section>`, `<table>`, `<ul>`, and `<footer>`.  
 
----
 
-## Demo
 
-You can view the live website here:  
-[Live Demo Link]([https://resumtemplate.netlify.app/)  
+## 🚀 Live Demo
 
-Or see screenshots in the `screenshots/` folder:  
-- `screenshot1.png` → Header & About  
-- `screenshot2.png` → Experience & Projects  
-- `screenshot3.png` → Education & Contact  
+👉 **Live Site:**[ https://resumetemplate.netlify.app/]  
 
----
+## 📁 Repository
 
-## Project Structure
+👉 **GitHub Repository:** https://github.com/Jagadeesh-Jetti/htmlportfolio
+
+## 🛠️ Technologies Used
+
+- **HTML5** – for markup structure  
+
+
+## 📄 Sections Included
+
+Your portfolio includes (update based on your actual sections):
+
+- About Me
+- Skills
+- Projects
+- Education
+- Contact
+
+
+
+## 📸 Screenshots
+
+## Serup Instruction
+
+Clone repository : https://github.com/Jagadeesh-Jetti/htmlportfolio.git
 
