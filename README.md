@@ -3,22 +3,35 @@
 This is a **single-page resume website** built entirely with **HTML**.  
 It showcases my skills, experience, projects, education, and contact details in a **clean, structured layout**.
 
-The project is built **without CSS**, using semantic HTML elements like `<header>`, `<main>`, `<section>`, `<table>`, `<ul>`, and `<footer>`.  
-The tables use a **nested table trick** to simulate **double-line borders**, giving a professional resume look.
+The project is built **without CSS**, using semantic HTML elements like `<header>`, `<main>`, `<section>`, `<table>`, `<ul>`, and `<footer>`.
 
----
+## 🚀 Live Demo
 
-## Demo
+👉 **Live Site:**[ https://resumetemplate.netlify.app/]
 
-You can view the live website here:  
-[Live Demo Link](https://jagadeesh-jetti.github.io/htmlportfolio/)
+## 📁 Repository
 
-Or see screenshots in the `screenshots/` folder:
+👉 **GitHub Repository:** https://github.com/Jagadeesh-Jetti/htmlportfolio
 
-- `screenshot1.png` → Header & About
-- `screenshot2.png` → Experience & Projects
-- `screenshot3.png` → Education & Contact
+## 🛠️ Technologies Used
 
----
+- **HTML5** – for markup structure
 
-## Project Structure
+## 📄 Sections Included
+
+Your portfolio includes (update based on your actual sections):
+
+- About Me
+- Skills
+- Projects
+- Education
+- Contact
+
+## 📸 Screenshots
+
+<img width="1920" height="1080" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/a764dbc9-6fe0-4045-a97d-571eee105bec" />
+<img width="1920" height="1080" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/7d6d15f8-06a6-42f2-b4eb-02e2938af179" />
+
+## Setup Instruction
+
+Clone repository : https://github.com/Jagadeesh-Jetti/htmlportfolio.git
