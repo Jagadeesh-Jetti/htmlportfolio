@@ -3,11 +3,13 @@
 This is a **single-page resume website** built entirely with **HTML**.  
 It showcases my skills, experience, projects, education, and contact details in a **clean, structured layout**.
 
-The project is built **without CSS**, using semantic HTML elements like `<header>`, `<main>`, `<section>`, `<table>`, `<ul>`, and `<footer>`.
+The project is built **without CSS**, using semantic HTML elements like `<header>`, `<main>`, `<section>`, `<table>`, `<ul>`, and `<footer>`.  
+
+
 
 ## 🚀 Live Demo
 
-👉 **Live Site:**[ https://resumetemplate.netlify.app/]
+👉 **Live Site:**[ https://resumetemplate.netlify.app/]  
 
 ## 📁 Repository
 
@@ -15,7 +17,8 @@ The project is built **without CSS**, using semantic HTML elements like `<header
 
 ## 🛠️ Technologies Used
 
-- **HTML5** – for markup structure
+- **HTML5** – for markup structure  
+
 
 ## 📄 Sections Included
 
@@ -27,11 +30,14 @@ Your portfolio includes (update based on your actual sections):
 - Education
 - Contact
 
-## 📸 Screenshots
 
+
+## 📸 Screenshots
 <img width="1920" height="1080" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/a764dbc9-6fe0-4045-a97d-571eee105bec" />
 <img width="1920" height="1080" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/7d6d15f8-06a6-42f2-b4eb-02e2938af179" />
+
 
 ## Setup Instruction
 
 Clone repository : https://github.com/Jagadeesh-Jetti/htmlportfolio.git
+
